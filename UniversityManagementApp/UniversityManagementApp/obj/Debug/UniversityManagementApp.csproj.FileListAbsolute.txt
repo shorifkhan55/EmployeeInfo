@@ -1,0 +1,34 @@
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentEntryUI.resources
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentEntryUI.resources
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.DepartmentEntryUI.resources
+D:\Training\SEIP\10 MAY 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.MenuUI.resources
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.DepartmentEntryUI.resources
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.MenuUI.resources
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentEntryUI.resources
+I:\class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+F:\ \class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+F:\ \class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+F:\ \class Document Of Sir\10 MAY 2015\02. View with Database Code\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
